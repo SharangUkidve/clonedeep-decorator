@@ -1,4 +1,4 @@
-var cloneDeep = require('lodash/cloneDeep');
+var cloneDeep = require('lodash.clonedeep');
 
 function CloneDeep() {
   return function (target, propertyName) {

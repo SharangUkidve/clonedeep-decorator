@@ -1,6 +1,6 @@
 {
   "name": "clonedeep-decorator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Decorator to set deep clone and retrieve deep cloned objects",
   "main": "index.js",
   "keywords": [
@@ -17,7 +17,7 @@
   "author": "Sharang Ukidve",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash.clonedeep": "^4.5.0"
   },
   "homepage": "https://github.com/SharangUkidve/clonedeep-decorator"
 }
