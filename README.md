@@ -32,9 +32,8 @@ class MyFormComponent {
 
 ## Dependencies
 
-`lodash` is a required dependency for the CloneDeep decorator.
+`lodash.clonedeep` is a required dependency for the CloneDeep decorator.
 
-`npm i lodash^4.17.21`
+`npm i lodash.clonedeep^4.5.0`
 
-`yarn add lodash^4.17.21`
-
+`yarn add lodash.clonedeep^4.5.0`
